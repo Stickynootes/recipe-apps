@@ -38,6 +38,3 @@ URL:
 - Gson
 - Coroutines
 - Sqlite
-
-# Contact
-if you found some bad things in my code, any suggestions or question please let me know Contact me here: hafiz.nr5758@gmail.com
